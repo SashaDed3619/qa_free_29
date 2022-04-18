@@ -17,10 +17,10 @@ let item_7_type = typeof(item_7)
     console.log(item_6_type);
     console.log(item_7);
 
-    console.log("item_6 ==", item_6)
+    console.log("item_6 =", item_6)
     console.log("item_6_type ==", item_6_type)
 
-    console.log("item_7 ==", item_7);
+    console.log("item_7 =", item_7);
     console.log("item_7_type ==", item_7_type)
 }
 
